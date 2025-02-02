@@ -1,9 +1,10 @@
-## Bem-vindo(a) ao perfil de isabela-mnz 😁
+# 👋 Hello! Welcome to my Github profile.
+## My name is Isabela and my nickname is isabela-mnz!
 
  <div>
    <a href="https://github.com/isabela-mnz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela-mnz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,12 +15,8 @@
  
 <br>
  
-### Para entrar em contato o meu LinkedIn abaixo!
+### To contact my LinkedIn below!
  
 <div> 
-  
-  
- 
-  
-  <a href="www.linkedin.com/in/isabela-menezes-b7a5bb249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/isabela-menezes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
