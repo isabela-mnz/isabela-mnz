@@ -31,3 +31,7 @@ My name is Isabela and I am a Fullstack programmer in training, currently studyi
 <a href="https://www.linkedin.com/in/isabela-menezes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:isabelamenezes843@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff9000?style=for-the-badge&logo=gmail&logoColor=white target=_blank"></a>
 </div>
+
+<br>
+
+![Snake animation](https://github.com/isabela-mnz/isabela-mnz/blob/output/github-contribution-grid-snake.svg)
