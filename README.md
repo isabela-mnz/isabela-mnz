@@ -34,5 +34,5 @@ Hi, I'm Isabela, a Fullstack developer in training, currently pursuing a degree 
 
 <br> 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/isabela-mnz/blob/output/github-contribution-grid-snake.svg)
 
