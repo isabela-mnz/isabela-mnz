@@ -32,7 +32,3 @@ Hi, I'm Isabela, a Fullstack developer in training, currently pursuing a degree 
 <a href = "mailto:isabelamenezes843@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.duolingo.com/profile/Aleb_vzx" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"></a>
 
-<br> 
-
-![Snake animation](https://github.com/seu-usuário-aqui/isabela-mnz/blob/output/github-contribution-grid-snake.svg)
-
