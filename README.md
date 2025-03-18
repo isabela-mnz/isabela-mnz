@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B3CF0&width=435&lines=Hello+everyone%2C)](https://git.io/typing-svg)
 
-Hi, I'm Isabela, a Fullstack developer in training, currently pursuing a degree in Information Systems. I'm passionate about technology and committed to becoming an excellent professional in the field. I have experience with HTML, CSS, JavaScript, Python, and data privacy and protection. Always eager to learn, I seek new challenges and opportunities to grow and expand my skills.
+Hi, I'm Isabela, a Fullstack developer in training, currently pursuing a degree in Information Systems. I'm passionate about technology and committed to becoming an excellent professional in the field. I have experience with HTML, CSS, JavaScript and data privacy and protection. Always eager to learn, I seek new challenges and opportunities to grow and expand my skills.
 
 <h2>GitHub Stats ⚡ </h2>
  <div>
