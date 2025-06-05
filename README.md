@@ -7,7 +7,7 @@ Hi, I'm Isabela, a Fullstack developer in training, currently pursuing a degree 
  <div>
    <a href="https://github.com/isabela-mnz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela-mnz&theme=midnight-purple&show_icons=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-mnz&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-mnz&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
 
 <h2>Tech Stacks 💻 </h2>
