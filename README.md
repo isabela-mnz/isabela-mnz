@@ -24,6 +24,7 @@ Hi, I'm Isabela, a Fullstack developer in training, currently pursuing a degree 
     <img height="40" width="40" src="https://cdn.simpleicons.org/vercel/000000"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/ff9000"/>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+   <img height="40" width="40" alt="IntelliJ IDEA" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intellijidea.svg" />
   </p>
  </div>
  
